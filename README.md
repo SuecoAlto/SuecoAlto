@@ -2,13 +2,13 @@
 
   <!--START_SECTION:waka-->
 <p><strong>I’m a Night 🦉</strong></p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% </span></span>
+<pre class="astro-code github-dark" style="background-color:#000000;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% </span></span>
 <span class="line"><span>🌆 Daytime    83 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% </span></span>
 <span class="line"><span>🌃 Evening    172 commits    █████████████░░░░░░░░░░░░   53.09% </span></span>
 <span class="line"><span>🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%</span></span>
 <span class="line"><span></span></span></code></pre>
 <p>📅 <strong>I’m Most Productive on Sunday</strong></p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% </span></span>
+<pre class="astro-code github-dark" style="background-color:#000000;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% </span></span>
 <span class="line"><span>Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% </span></span>
 <span class="line"><span>Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% </span></span>
 <span class="line"><span>Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% </span></span>
