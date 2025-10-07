@@ -20,7 +20,7 @@ jobs:
           # Vi använder vårt nya, kraftfulla PAT istället
           GH_TOKEN: ${{ secrets.GH_PAT }}
           
-          SHOW_DAYS_OF_WEEK: "false"
+  
           SHOW_TOTAL_CODE_TIME: "false"
           SHOW_LANGUAGE: "true"
           SHOW_OS: "true"
