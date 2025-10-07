@@ -20,26 +20,6 @@ Friday                   11 commits          █░░░░░░░░░░�
 Saturday                 10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 Sunday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Stockholm
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
