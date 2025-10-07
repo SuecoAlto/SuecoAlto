@@ -23,7 +23,7 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "false"
           SHOW_PROFILE_VIEWS: "false"
           SHOW_SHORT_INFO: "false"
-          
+          SHOW_DAYS_OF_WEEK: "false"
           SHOW_TIMEZONE: "false"
           SHOW_LANGUAGE: "false"
           SHOW_EDITORS: "false"
