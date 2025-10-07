@@ -1,6 +1,7 @@
 <p><img src="SCR-20251007-czlk.png" alt="alt README header"></p>
 
 <h1>Hi 👋 </h1>
+<h1>Hi 👋 </h1>
 <p>A passionate frontend developer from </p>
 <p>A passionate frontend developer from </p>
 <h4> Languages and Tools I Use 🚀</h4>
