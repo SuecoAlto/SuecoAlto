@@ -23,4 +23,6 @@ jobs:
           SHOW_PROFILE_VIEWS: "false"
           SHOW_SHORT_INFO: "false"
           SHOW_SPENT_MY_TIME_ON: "false"
-          
+          SHOW_LOC_CHART: "false"
+
+
