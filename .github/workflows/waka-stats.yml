@@ -23,8 +23,11 @@ jobs:
           SHOW_PROFILE_VIEWS: "false"
           SHOW_SHORT_INFO: "false"
           
-          SHOW_SPENT_MY_TIME_ON: "false"
-          SHOW_PROJECTS: "False"
+          SHOW_TIMEZONE: "false"
+          SHOW_LANGUAGE: "false"
+          SHOW_EDITORS: "false"
+          SHOW_PROJECTS: "false"
+          SHOW_EDITORS: "false"
           
           SHOW_LOC_CHART: "false"
 
