@@ -1,4 +1,4 @@
-<p><img src="SCR-20251007-czlk.png" alt="alt README header"></p>
+<img src="SCR-20251007-czlk.png" alt="alt README header">
 
 <h2>A passionate Full Stack developer specialized in Embedded Systems & IoT from Sweden </h2>
 
