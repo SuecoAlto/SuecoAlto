@@ -6,7 +6,7 @@
 
 <h3 id="my-github-stats">🐱My Github stats:</h3>
 <p><img src="https://github-readme-stats.vercel.app/api?username=SuecoAlto&amp;show_icons=true&amp;title_color=ffc857&amp;icon_color=8ac926&amp;text_color=daf7dc&amp;bg_color=151515&amp;hide=%5B%22stars%22%5D" alt="Apoorv's github stats">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuecoAlto&amp;layout=compact&amp;text_color=daf7dc&amp;bg_color=151515" alt="Top Langs"></a></p>
+<a href="https://github.com/SuecoAlto/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuecoAlto&amp;layout=compact&amp;text_color=daf7dc&amp;bg_color=151515" alt="Top Langs"></a></p>
 <!--START_SECTION:waka-->
 <p><strong>I’m a Night 🦉</strong></p>
 <pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% </span></span>
