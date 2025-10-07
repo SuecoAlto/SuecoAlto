@@ -10,9 +10,10 @@ jobs:
   update-readme:
     name: Update Readme with WakaTime Stats
     runs-on: ubuntu-latest
-    # Denna nya sektion löser ditt problem
+    # VI UTÖKAR DENNA SEKTION FÖR ATT VARA TYDLIGARE
     permissions:
       contents: write
+      pull-requests: read
       
     steps:
       - uses: anmol098/waka-readme-stats@master
