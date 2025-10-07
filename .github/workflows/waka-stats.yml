@@ -19,4 +19,8 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # Vi använder vårt nya, kraftfulla PAT istället
           GH_TOKEN: ${{ secrets.GH_PAT }}
+          SHOW_TOTAL_CODE_TIME: "false"
+          SHOW_PROFILE_VIEWS: "false"
+          SHOW_SHORT_INFO: "false"
+          SHOW_SPENT_TIME_ON: "false"
           
