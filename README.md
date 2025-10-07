@@ -1,7 +1,7 @@
 <p><img src="SCR-20251007-czlk.png" alt="alt README header"></p>
 
 <h1>Hi 👋 </h1>
-<p>"A passionate Full Stack developer specialized in Embedded Systems & IoT from Sweden.</p>
+<p>A passionate Full Stack developer specialized in Embedded Systems & IoT from Sweden.</p>
 <h4> Languages and Tools I Use 🚀</h4>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
