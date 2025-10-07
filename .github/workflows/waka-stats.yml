@@ -27,7 +27,6 @@ jobs:
           SHOW_LANGUAGE: "false"
           SHOW_EDITORS: "false"
           SHOW_PROJECTS: "false"
-          SHOW_EDITORS: "false"
           
           SHOW_LOC_CHART: "false"
 
