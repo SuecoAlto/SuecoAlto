@@ -1,4 +1,4 @@
-  <p><img src="daniel-leone-v7daTKlZzaw-unsplash.png" alt="alt README header"></p>
+  <p><img src="SCR-20251007-czlk.png" alt="alt README header"></p>
 
 ## Hi there 👋
 
