@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
       pull-requests: read
-
+      
     steps:
       - uses: anmol098/waka-readme-stats@v4
         with:
@@ -20,6 +20,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_DAYS_OF_WEEK: "true"
           SHOW_LANGUAGE: "true"
-          SHOW_TOTAL_CODE_TIME: "true"
+          # Raden nedan är borttagen
+          # SHOW_TOTAL_CODE_TIME: "true" 
           SHOW_PROFILE_VIEWS: "false"
           SHOW_LOC_CHART: "false"
