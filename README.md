@@ -2,7 +2,13 @@
 
 <h2>Full Stack developer from Sweden, specialized in Embedded Systems, IoT and OT-Security</h2
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=4B29FF&repeat=false&random=true&width=1100&lines=Full+Stack+developer+from+Sweden%2C+specialized+in+Embedded+Systems%2C+IoT+and+OT-Security" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=4B29FF&repeat=false&random=true&lines=Full+Stack+developer+from+Sweden%2C+specialized+in+Embedded+Systems%2C+IoT+and+OT-Security&size=24" 
+    alt="Typing SVG" 
+    style="width: 100%;" 
+  />
+</a>
 
 <h4> Languages and Tools I Use 🚀</h4>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
