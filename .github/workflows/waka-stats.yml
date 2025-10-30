@@ -1,35 +1,92 @@
+# Namnet på hela arbetsflödet. 
+# Detta namn visas i "Actions"-fliken på ditt GitHub-repository.
 name: Waka Readme Stats
 
+# 'on:'-blocket definierar vad som ska "trigga" (starta) detta arbetsflöde.
 on:
+  # 'schedule:' låter arbetsflödet köras automatiskt enligt ett tidsschema.
   schedule:
+    # 'cron:' definierar schemat med cron-syntax (minut, timme, dag, månad, veckodag).
+    # '0 0 * * *' betyder "vid minut 0, vid timme 0 (midnatt UTC), varje dag".
+    # Alltså: Körs en gång per dygn, vid midnatt UTC.
     - cron: '0 0 * * *'
+    
+  # 'workflow_dispatch:' gör det möjligt att starta arbetsflödet manuellt 
+  # via "Run workflow"-knappen i GitHub Actions-gränssnittet.
   workflow_dispatch:
 
+# 'jobs:' definierar de uppgifter som arbetsflödet ska utföra.
 jobs:
+  # 'update-readme:' är det unika ID:t för detta jobb.
   update-readme:
+    # Det "vänliga" namnet på jobbet som visas i GitHub-loggarna.
     name: Update Readme with WakaTime Stats
+    
+    # Specificerar att jobbet ska köras på den senaste versionen av Ubuntu.
     runs-on: ubuntu-latest
+    
+    # 'permissions:' definierar vilka behörigheter detta arbetsflöde har 
+    # i ditt repository.
     permissions:
+      # Nödvändigt för att actionen ska kunna checka in 
+      # den uppdaterade README-filen.
       contents: write
-      pull-requests: read
       
+      # Används av actionen för att kunna läsa data relaterad 
+      # till pull requests (om den funktionen används).
+      pull-requests: read
+
+    # 'steps:' är en lista över de kommandon eller actions 
+    # som jobbet ska utföra, i ordning.
     steps:
+      # Detta jobb använder bara ETT steg, som är en färdig action från communityt.
+      # 'anmol098/waka-readme-stats@master' är actionen som gör allt jobb.
+      # OBS: '@master' betyder att den alltid kör den senaste koden från 
+      # master-branchen, vilket kan vara instabilt. En specifik version 
+      # (t.ex. @v4) är ofta säkrare.
       - uses: anmol098/waka-readme-stats@master
+        
+        # 'with:' används för att skicka indata (parametrar och hemligheter) 
+        # till actionen ovan.
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Vi använder vårt nya, kraftfulla PAT istället
-          GH_TOKEN: ${{ secrets.GH_PAT }}
+          # --- OBLIGATORISKA HEMLIGHETER ---
           
+          # Din WakaTime API-nyckel. Hämtas säkert från GitHub Secrets.
+          # Krävs för att hämta din personliga kodstatistik.
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          
+          # En GitHub Personal Access Token (PAT). Hämtas också från Secrets.
+          # Krävs för att actionen ska kunna checka in den uppdaterade
+          # README-filen å dina vägnar.
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+
+          # --- VALFRIA PARAMETRAR (Flaggor) ---
+          # Här stänger du av nästan alla moduler för att anpassa 
+          # utseendet på din README. Allt satt till "false" kommer *inte* visas.
+          
+          # Visar inte den totala kodningstiden.
           SHOW_TOTAL_CODE_TIME: "false"
+          # Visar inte antalet profilvisningar (kräver en separat setup).
           SHOW_PROFILE_VIEWS: "false"
+          # Visar inte den korta infon (som genomsnittlig tid per dag).
           SHOW_SHORT_INFO: "false"
+          # Visar inte en graf över vilka veckodagar du kodar mest.
           SHOW_DAYS_OF_WEEK: "false"
+          # Visar inte din tidszon.
           SHOW_TIMEZONE: "false"
+          # Visar inte vilka programmeringsspråk du använt.
           SHOW_LANGUAGE: "false"
+          # Visar inte vilka kodredigerare (Editors) du använt.
           SHOW_EDITORS: "false"
+          # Visar inte vilka projekt du arbetat på.
           SHOW_PROJECTS: "false"
+          # Visar inte vilka operativsystem (OS) du använt.
           SHOW_OS: "false"
           
+          # Visar inte en graf över "Lines of Code" (LOC).
           SHOW_LOC_CHART: "false"
-
-
+          
+          # NOTERA: Eftersom du stängt av allt ovan, kommer actionen troligen 
+          # bara visa den *huvudsakliga* grafen för kodningsaktivitet, 
+          # eftersom dess flagga (SHOW_CODING_ACTIVITY) inte är satt till "false" 
+          # och därför är "true" som standard.
