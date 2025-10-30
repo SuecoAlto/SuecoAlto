@@ -63,6 +63,9 @@ Java                     1 repo              ██░░░░░░░░░�
 ```
 
 
+## 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
  Last Updated on 30/10/2025 00:19:42 UTC
