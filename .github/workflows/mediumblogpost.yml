@@ -1,21 +1,60 @@
+# Namnet på hela arbetsflödet. 
+# Detta namn visas i "Actions"-fliken på ditt GitHub-repository.
 name: Latest blog post workflow
+
+# 'on:'-blocket definierar vad som ska "trigga" (starta) detta arbetsflöde.
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  # 'schedule:' låter arbetsflödet köras automatiskt enligt ett tidsschema.
+  schedule:
+    # 'cron:' definierar schemat med cron-syntax (minut, timme, dag, månad, veckodag).
+    # '0 * * * *' betyder "vid minut 0, varje timme, varje dag, varje månad, varje veckodag".
+    # Alltså: Körs exakt varje heltimme.
+    - cron: '0 * * * *'
+
+  # 'workflow_dispatch:' gör det möjligt att starta arbetsflödet manuellt.
+  # Detta lägger till en "Run workflow"-knapp i GitHub Actions-gränssnittet.
+  workflow_dispatch:
+
+# 'permissions:' definierar vilka behörigheter detta arbetsflöde har 
+# i ditt repository.
 permissions:
-  contents: write # To write the generated contents to the readme
+  # 'contents: write' är nödvändigt. Det ger flödet tillåtelse att 
+  # "skriva" (checka in ändringar) till ditt repository. 
+  # Utan detta kan det inte uppdatera din README-fil.
+  contents: write
 
+# 'jobs:' definierar de uppgifter som arbetsflödet ska utföra.
+# Ett arbetsflöde kan ha ett eller flera jobb som körs parallellt eller i sekvens.
 jobs:
+  # 'update-readme-with-blog:' är det unika ID:t för detta jobb.
   update-readme-with-blog:
+    # Det "vänliga" namnet på jobbet som visas i GitHub-loggarna.
     name: Update this repo's README with latest blog posts
+    
+    # 'runs-on:' specificerar vilken typ av virtuell maskin (runner) 
+    # som jobbet ska köras på. 'ubuntu-latest' är en vanlig och stabil standard.
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://medium.com/feed/@SuecoAlto"
 
-          
+    # 'steps:' är en lista över de kommandon eller actions 
+    # som jobbet ska utföra, i ordning.
+    steps:
+      # STEG 1: Checka ut koden
+      # Detta steg laddar ner ditt repositorys kod till den virtuella maskinen.
+      - name: Checkout
+        # 'uses:' anger att vi vill använda en färdig action.
+        # 'actions/checkout@v4' är den officiella actionen för att checka ut kod.
+        uses: actions/checkout@v4
+
+      # STEG 2: Hämta blogginlägg
+      # Detta är huvudsteget som utför själva magin.
+      - name: Pull in dev.to posts
+        # Använder en tredjeparts-action skapad av 'gautamkrishnar'.
+        # Denna action är designad för att hämta inlägg och uppdatera en fil.
+        uses: gautamkrishnar/blog-post-workflow@v1
+        
+        # 'with:' används för att skicka indata (parametrar) till actionen ovan.
+        with:
+          # 'feed_list:' är en parameter som 'blog-post-workflow' förväntar sig.
+          # Här anger du URL:en till RSS-flödet som ska läsas.
+          # (I ditt fall, ett Medium-flöde).
+          feed_list: "https://medium.com/feed/@SuecoAlto"
