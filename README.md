@@ -80,5 +80,6 @@ Java                     1 repo              ██░░░░░░░░░�
 
 #### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [TCP/IP Modellen: En guide till hur nätverk fungerar](https://medium.com/@suecoalto/tcp-ip-modellen-en-guide-till-hur-n%C3%A4tverk-fungerar-786960da9bb0?source=rss-97a9c0c7acc9------2)
 - [Vi har valt att gå vidare med andra kandidater Ett ‘nej’ som tvingade mig att omvärdera “Fullstack”.](https://medium.com/@suecoalto/vi-har-valt-att-g%C3%A5-vidare-med-andra-kandidater-ett-nej-som-tvingade-mig-att-omv%C3%A4rdera-fullstack-626a6ce0267d?source=rss-97a9c0c7acc9------2)
 <!-- BLOG-POST-LIST:END -->
