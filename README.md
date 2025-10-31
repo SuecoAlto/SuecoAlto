@@ -7,7 +7,6 @@
   />
 </a>
 
-----
 
 <h4> Languages and Tools I Use 🚀</h4>
 <p align="center"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
