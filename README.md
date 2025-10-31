@@ -68,7 +68,7 @@ Java                     1 repo              ██░░░░░░░░░�
 ```
 
 
-## 📝 Latest Blog Posts @medium.com
+#### 📝 Latest Blog Posts @medium.com
 <!-- BLOG-POST-LIST:START -->
 - [Vi har valt att gå vidare med andra kandidater Ett ‘nej’ som tvingade mig att omvärdera “Fullstack”.](https://medium.com/@suecoalto/vi-har-valt-att-g%C3%A5-vidare-med-andra-kandidater-ett-nej-som-tvingade-mig-att-omv%C3%A4rdera-fullstack-626a6ce0267d?source=rss-97a9c0c7acc9------2)
 <!-- BLOG-POST-LIST:END -->
