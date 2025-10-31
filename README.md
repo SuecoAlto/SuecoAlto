@@ -1,7 +1,5 @@
 <p><img src="SCR-20251007-czlk.png" alt="alt README header"></p>
 
-<h2>Full Stack developer from Sweden, specialized in Embedded Systems, IoT and OT-Security</h2
-
 <a href="https://git.io/typing-svg">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1100&color=D1D7DF&repeat=false&random=true&lines=Software+developer+from+Sweden%2C+specialized+in+Embedded+Systems%2C+IoT+%26+OT-Security&size=25&width=1250" 
