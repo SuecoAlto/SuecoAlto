@@ -50,10 +50,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-🌆 Daytime                40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-🌃 Evening                82 commits          ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-🌙 Night                  138 commits         ████████████░░░░░░░░░░░░░   46.78 % 
+🌞 Morning                35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+🌆 Daytime                40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+🌃 Evening                82 commits          ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+🌙 Night                  167 commits         █████████████░░░░░░░░░░░░   51.54 % 
 ```
 
 
@@ -68,11 +68,7 @@ Java                     1 repo              ██░░░░░░░░░�
 ```
 
 
-#### 📝 Latest Blog Posts @medium.com
-<!-- BLOG-POST-LIST:START -->
-- [Vi har valt att gå vidare med andra kandidater Ett ‘nej’ som tvingade mig att omvärdera “Fullstack”.](https://medium.com/@suecoalto/vi-har-valt-att-g%C3%A5-vidare-med-andra-kandidater-ett-nej-som-tvingade-mig-att-omv%C3%A4rdera-fullstack-626a6ce0267d?source=rss-97a9c0c7acc9------2)
-<!-- BLOG-POST-LIST:END -->
 
 
- Last Updated on 30/10/2025 00:19:42 UTC
+ Last Updated on 31/10/2025 00:18:56 UTC
 <!--END_SECTION:waka-->
