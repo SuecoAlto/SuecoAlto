@@ -1,7 +1,8 @@
 <p><img src="SCR-20251007-czlk.png" alt="alt README header"></p>
 
 <a href="https://git.io/typing-svg">
-  <img src="typingsvg.vercel.appfont=Fira+Code&fontWeight=bold&duration=3500&pause=1000&color=D1D7DF&random=true&lines=Full+Stack+developer+from+Sweden%2C+specialized+in+Embedded+Systems%2C+IoT+%26+OT-Security&FontSize=25&width=1250&repeat=false&v=1" 
+  <img  
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=D1D7DF&random=true&lines=Full+Stack+developer+from+Sweden%2C+specialized+in+Embedded+Systems%2C+IoT+%26+OT-Security&size=25&width=1250&repeat=false&v=1" 
     alt="Typing SVG" 
   />
 </a>
