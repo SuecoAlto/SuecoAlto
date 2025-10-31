@@ -75,8 +75,11 @@ Java                     1 repo              ██░░░░░░░░░�
 
  Last Updated on 31/10/2025 00:18:56 UTC
 <!--END_SECTION:waka-->
+
 ---
+
 #### 📝 Latest Blog Posts
+<hr style="height: 1px; border: none;">
 <!-- BLOG-POST-LIST:START -->
 - [Vi har valt att gå vidare med andra kandidater Ett ‘nej’ som tvingade mig att omvärdera “Fullstack”.](https://medium.com/@suecoalto/vi-har-valt-att-g%C3%A5-vidare-med-andra-kandidater-ett-nej-som-tvingade-mig-att-omv%C3%A4rdera-fullstack-626a6ce0267d?source=rss-97a9c0c7acc9------2)
 <!-- BLOG-POST-LIST:END -->
