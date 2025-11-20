@@ -57,4 +57,4 @@ jobs:
           # 'feed_list:' är en parameter som 'blog-post-workflow' förväntar sig.
           # Här anger du URL:en till RSS-flödet som ska läsas.
           # (I ditt fall, ett Medium-flöde).
-          feed_list: "https://medium.com/feed/suecoalto"
+          feed_list: "https://medium.com/feed/@suecoalto"
