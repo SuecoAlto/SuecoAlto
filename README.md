@@ -77,6 +77,6 @@ Java                     1 repo              ██░░░░░░░░░�
 
 #### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Min “Aha-upplevelse”: Varför min MERN-stack inte räckte till](https://medium.com/@suecoalto/min-aha-upplevelse-varf%C3%B6r-min-mern-stack-inte-r%C3%A4ckte-till-4f6f41be7b03?source=rss-97a9c0c7acc9------2)
 - [TCP/IP Modellen: En guide till hur nätverk fungerar](https://medium.com/@suecoalto/tcp-ip-modellen-en-guide-till-hur-n%C3%A4tverk-fungerar-786960da9bb0?source=rss-97a9c0c7acc9------2)
-- [Vi har valt att gå vidare med andra kandidater Ett ‘nej’ som tvingade mig att omvärdera “Fullstack”.](https://medium.com/@suecoalto/vi-har-valt-att-g%C3%A5-vidare-med-andra-kandidater-ett-nej-som-tvingade-mig-att-omv%C3%A4rdera-fullstack-626a6ce0267d?source=rss-97a9c0c7acc9------2)
 <!-- BLOG-POST-LIST:END -->
