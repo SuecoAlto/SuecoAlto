@@ -7,8 +7,6 @@
   />
 </a>
 
-www.bamozafar.se
-
 ---
 
 <h4> Languages and Tools I Use 🚀</h4>
