@@ -57,20 +57,20 @@
 ```
 
 
-**I Mostly Code in Python** 
+**I Mostly Code in JavaScript** 
 
 ```text
-Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 28/02/2026 00:22:34 UTC
+ Last Updated on 01/03/2026 00:28:27 UTC
 <!--END_SECTION:waka-->
 
 ---
