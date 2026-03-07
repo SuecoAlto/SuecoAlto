@@ -50,27 +50,27 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-🌆 Daytime                58 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-🌃 Evening                89 commits          █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
-🌙 Night                  208 commits         █████████████░░░░░░░░░░░░   51.23 % 
+🌞 Morning                51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+🌆 Daytime                58 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+🌃 Evening                89 commits          █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+🌙 Night                  211 commits         █████████████░░░░░░░░░░░░   51.59 % 
 ```
 
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in Python** 
 
 ```text
-JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
-Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
-C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Python                   5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
+JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
 
 
- Last Updated on 06/03/2026 00:29:54 UTC
+ Last Updated on 07/03/2026 00:25:19 UTC
 <!--END_SECTION:waka-->
 
 ---
