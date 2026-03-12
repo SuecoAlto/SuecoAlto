@@ -38,8 +38,9 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="42" height="42" /></a></p>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
+</p>
 
 ---
 
