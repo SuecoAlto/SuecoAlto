@@ -8,8 +8,6 @@
 </a>
 
 ---
-
-<h4> Languages and Tools I Use 🚀</h4>
 <h4 align="center">Languages and Tools I Use 🚀</h4>
 
 <table align="center">
@@ -29,6 +27,8 @@
     <td><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="42" height="42" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="42" height="42" /></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="42" height="42" /></td>
+  </tr>
+  <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" /></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="42" height="42" /></td>
