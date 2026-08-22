@@ -50,14 +50,38 @@
 ---
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2025%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                99 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-🌆 Daytime                75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-🌃 Evening                139 commits         ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-🌙 Night                  274 commits         ████████████░░░░░░░░░░░░░   46.68 % 
+🌞 Morning                99 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+🌆 Daytime                76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+🌃 Evening                145 commits         ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+🌙 Night                  277 commits         ████████████░░░░░░░░░░░░░   46.40 % 
+```
+
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 6 hrs 25 mins (52.14%)
+
+✍️ 771 lines written by AI, 2,915 lines written by hand (20.92% AI-written)
+
+🔤 5,418,560 Input Tokens, 16,665 Output Tokens
+
+💵 $16.51 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 149 AI Prompts
+
+Github-Copilot           839 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 20.92% of written lines came from AI
+📝 Concise Prompter — average 192 characters per prompt
+🔁 Iterative Prompter — average 50 prompts per session
+🔍 Hands-On Reviewer — 83.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -73,7 +97,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 00:13:55 UTC
+ Last Updated on 22/08/2026 00:12:43 UTC
 <!--END_SECTION:waka-->
 
 ---
