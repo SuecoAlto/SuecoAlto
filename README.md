@@ -50,7 +50,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%209%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -65,23 +65,23 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (31.92%)
+⏱ AI Coding Time: 1 hr 4 mins (27.35%)
 
-✍️ 0 lines written by AI, 154 lines written by hand (0.0% AI-written)
+✍️ 129 lines written by AI, 386 lines written by hand (25.05% AI-written)
 
-🔤 214,859 Input Tokens, 344 Output Tokens
+🔤 2,963,221 Input Tokens, 538 Output Tokens
 
-💵 $0.65 Estimated AI Cost This Week
+💵 $8.90 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 6 AI Prompts
+🧠 1 AI Sessions, 28 AI Prompts
 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           154 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 57 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 25.05% of written lines came from AI
+📝 Concise Prompter — average 144 characters per prompt
+🔁 Iterative Prompter — average 28 prompts per session
+🔍 Hands-On Reviewer — 74.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -97,7 +97,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 00:27:44 UTC
+ Last Updated on 19/09/2026 00:26:42 UTC
 <!--END_SECTION:waka-->
 
 ---
