@@ -65,9 +65,9 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 4 mins (30.09%)
+⏱ AI Coding Time: 1 hr 4 mins (22.64%)
 
-✍️ 129 lines written by AI, 243 lines written by hand (34.68% AI-written)
+✍️ 129 lines written by AI, 265 lines written by hand (32.74% AI-written)
 
 🔤 2,963,221 Input Tokens, 538 Output Tokens
 
@@ -78,10 +78,10 @@
 Github-Copilot           154 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 34.68% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 32.74% of written lines came from AI
 📝 Concise Prompter — average 144 characters per prompt
 🔁 Iterative Prompter — average 28 prompts per session
-🔍 Hands-On Reviewer — 66.45% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 68.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -97,7 +97,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 00:29:48 UTC
+ Last Updated on 22/09/2026 00:27:25 UTC
 <!--END_SECTION:waka-->
 
 ---
