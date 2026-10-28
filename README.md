@@ -50,22 +50,38 @@
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%2023%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                140 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-🌆 Daytime                77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-🌃 Evening                226 commits         ███████░░░░░░░░░░░░░░░░░░   26.34 % 
-🌙 Night                  415 commits         ████████████░░░░░░░░░░░░░   48.37 % 
+🌞 Morning                140 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+🌆 Daytime                77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+🌃 Evening                226 commits         ███████░░░░░░░░░░░░░░░░░░   26.19 % 
+🌙 Night                  420 commits         ████████████░░░░░░░░░░░░░   48.67 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 8 mins (2.97%)
+
+✍️ 0 lines written by AI, 757 lines written by hand (0.0% AI-written)
+
+🔤 34,144 Input Tokens, 2,347 Output Tokens
+
+💵 $0.11 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 324 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,7 +97,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 00:26:08 UTC
+ Last Updated on 28/10/2026 00:20:24 UTC
 <!--END_SECTION:waka-->
 
 ---
