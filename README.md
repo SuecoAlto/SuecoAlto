@@ -50,38 +50,39 @@
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2035%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                140 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-🌆 Daytime                77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-🌃 Evening                226 commits         ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-🌙 Night                  420 commits         ████████████░░░░░░░░░░░░░   48.67 % 
+🌞 Morning                140 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+🌆 Daytime                78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+🌃 Evening                229 commits         ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+🌙 Night                  422 commits         ████████████░░░░░░░░░░░░░   48.56 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (2.97%)
+⏱ AI Coding Time: 2 hrs 19 mins (39.33%)
 
-✍️ 0 lines written by AI, 757 lines written by hand (0.0% AI-written)
+✍️ 1,193 lines written by AI, 718 lines written by hand (62.43% AI-written)
 
-🔤 34,144 Input Tokens, 2,347 Output Tokens
+🔤 96,458 Input Tokens, 3,813 Output Tokens
 
-💵 $0.11 Estimated AI Cost This Week
+💵 $0.27 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 2 AI Sessions, 29 AI Prompts
 
+Sonnet                   1,194 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 324 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+⚖️ Balanced with AI — 62.43% of written lines came from AI
+📄 Detailed Prompter — average 878 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 42.68% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,7 +98,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 00:20:24 UTC
+ Last Updated on 29/10/2026 00:20:13 UTC
 <!--END_SECTION:waka-->
 
 ---
