@@ -50,7 +50,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%209%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -65,24 +65,24 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 19 mins (39.33%)
+⏱ AI Coding Time: 4 hrs 54 mins (57.72%)
 
-✍️ 1,193 lines written by AI, 718 lines written by hand (62.43% AI-written)
+✍️ 4,183 lines written by AI, 718 lines written by hand (85.35% AI-written)
 
 🔤 96,458 Input Tokens, 3,813 Output Tokens
 
 💵 $0.27 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 29 AI Prompts
+🧠 3 AI Sessions, 57 AI Prompts
 
-Sonnet                   1,194 lines         █████████████████████████   100.00 % 
+Sonnet                   4,184 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 62.43% of written lines came from AI
-📄 Detailed Prompter — average 878 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 42.68% of changed lines were hand-edited
+🤖 AI-Driven — 85.35% of written lines came from AI
+📚 Verbose Prompter — average 1,520 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 17.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -98,7 +98,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 00:20:13 UTC
+ Last Updated on 30/10/2026 00:20:40 UTC
 <!--END_SECTION:waka-->
 
 ---
