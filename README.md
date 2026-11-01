@@ -50,7 +50,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%2054%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -65,24 +65,25 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 6 mins (58.63%)
+⏱ AI Coding Time: 5 hrs 39 mins (60.48%)
 
-✍️ 5,026 lines written by AI, 718 lines written by hand (87.5% AI-written)
+✍️ 7,023 lines written by AI, 718 lines written by hand (90.72% AI-written)
 
 🔤 96,458 Input Tokens, 3,813 Output Tokens
 
 💵 $0.27 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 59 AI Prompts
+🧠 5 AI Sessions, 63 AI Prompts
 
-Sonnet                   5,027 lines         █████████████████████████   100.00 % 
+Sonnet                   7,029 lines         █████████████████████████   99.99 % 
+Github-Copilot-Cli       1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.5% of written lines came from AI
-📚 Verbose Prompter — average 1,592 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 15.03% of changed lines were hand-edited
+🤖 AI-Driven — 90.72% of written lines came from AI
+📚 Verbose Prompter — average 1,503 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 11.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -98,7 +99,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 00:16:55 UTC
+ Last Updated on 01/11/2026 00:21:18 UTC
 <!--END_SECTION:waka-->
 
 ---
